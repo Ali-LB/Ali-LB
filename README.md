@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-lb&label=Profile%20views&color=0e75b6&style=flat" alt="ali-lb" /> </p>
 
-- 🔭 I’m currently working on **school projects**
+- 🔭 I’m currently working on **capstone projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Swift and Swift UI**
 
 - 💬 Ask me about **anything related to code**
 
