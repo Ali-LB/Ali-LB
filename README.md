@@ -5,13 +5,13 @@
 
 - 🔭 I’ve graduated and looking for work in **front end, back end, or full stack**
 
-- 🌱 I’m currently learning **Swift and Swift UI**
+- 🌱 I’m currently learning **NextJS and Typescript**
 
 - 💬 Ask me about **anything related to code**
 
 - 📫 How to reach me **ah.farhat@outlook.com**
 
-- ⚡ Fun fact **I tower over all**
+- ⚡ My last project used **Swift and Swift UI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
